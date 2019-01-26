@@ -1,0 +1,16 @@
+.results-box {
+    background-color: #ffffff;
+    color:#000000;
+    padding: 20px;
+  }
+  
+  .article-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  
+  
