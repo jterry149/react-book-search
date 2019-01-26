@@ -1,0 +1,14 @@
+/*= Search styling properties =*/
+.card {
+    border: 2px solid #000000;
+}
+.card-header {
+    background: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn {
+    margin-top: 5px;
+    float: right;
+}
