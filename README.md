@@ -1,6 +1,6 @@
-#React Google Book Search
+# React Google Book Search
 
-##Description
+## Description
 This is a full-stack application using the MERN stack that searches books using Google Books API.
 
 ## Technologies Used
