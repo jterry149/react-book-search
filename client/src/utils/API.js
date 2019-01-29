@@ -8,7 +8,7 @@ const API = {
     {
         // Declare variables needed for the query of google api
         const baseUrl = 'https://www.googleapis.com/books/v1';
-        const key = 'AIzaSyBlGEGx9lgOm211m_xdb36OGrJz3o3T1fo';
+        const key = API_KEY;
         const encodedSearchTerm = encodeURIComponent(searchTerm);
         
         // The constructed query for using google books api
